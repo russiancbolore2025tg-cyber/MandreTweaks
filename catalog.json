@@ -1,0 +1,112 @@
+{
+  "modules": [
+    {
+      "id": "mention_pill",
+      "name": "Заглушка",
+      "description": "Просто занимает 1 место в списке",
+      "author": "@swagnonher",
+      "version": "1.0",
+      "icon": "Animasha26/22",
+      "url": "https://gitverse.ru/api/repos/sterepando/MandreTweaks/raw/branch/master/Modules%2Fmention_pill.dex"
+    },
+    {
+      "id": "fuel_prices",
+      "name": "Цены на бензин (PillStack)",
+      "description": "Отображает актуальные цены на топливо в РФ прямо в пилстаке. Нажмите для детального просмотра всех цен, удерживайте для обновления.",
+      "author": "@swagnonher форк плагина @itsbotov",
+      "version": "1.0",
+      "icon": "Pubg_uzb_stickers/42",
+      "url": "https://gitverse.ru/api/repos/sterepando/MandreTweaks/raw/branch/master/Modules%2Ffuel_prices.dex"
+    },
+    {
+      "id": "beer_prices",
+      "name": "Цены на пиво (PillStack)",
+      "description": "Отображает средние цены на пиво в РФ прямо в пилстаке. Нажмите для детального просмотра всех цен, удерживайте для настройки.",
+      "author": "@swagnonher форк плагина @MKplusULTRA",
+      "version": "1.0",
+      "icon": "tPGDGCfbn_by_stickers_stealer_bot/0",
+      "url": "https://gitverse.ru/api/repos/sterepando/MandreTweaks/raw/branch/master/Modules%2Fbeer_prices.dex"
+    },
+    {
+      "id": "cut_premium",
+      "name": "Я нищета отьебитесь.",
+      "description": "Убирает Telegram Premium, Бизнес, Подарки, Звёзды из настроек, их ботомшиты и звёздные реакции.",
+      "author": "@swagnonher",
+      "version": "1.0",
+      "icon": "floppabig/35",
+      "url": "https://gitverse.ru/api/repos/sterepando/MandreTweaks/raw/branch/master/Modules%2Fcut_premium.dex"
+    },
+    {
+      "id": "sticker_tweaks",
+      "name": "Твики для стикеров",
+      "description": "Добавляет новые возможности в меню предпросмотра стикеров",
+      "author": "@swagnonher",
+      "version": "1.0",
+      "icon": "Swagapluginsicon/20",
+      "url": "https://gitverse.ru/api/repos/sterepando/MandreTweaks/raw/branch/master/Modules%2Fsticker_tweaks.dex"
+    },
+    {
+      "id": "glow_suite",
+      "name": "glow_suite [BETA]",
+      "description": "Единный модуль светящке",
+      "author": "@swagnonher",
+      "version": "1.0",
+      "icon": "Swagapluginsicon/13",
+      "url": "https://gitverse.ru/api/repos/sterepando/MandreTweaks/raw/branch/master/Modules%2Fglow_suite.dex"
+    },
+    {
+      "id": "custom_fonts",
+      "name": "Custom Fonts",
+      "description": "Позволяет выбирать свои шрифты для приложения",
+      "author": "@swagnonher",
+      "version": "1.0",
+      "icon": "Swagapluginsicon/23",
+      "url": "https://gitverse.ru/api/repos/sterepando/MandreTweaks/raw/branch/master/Modules%2Fcustom_fonts.dex"
+    },
+    {
+      "id": "premium_emoji_tweaks",
+      "name": "Твики для премиум эмодзи",
+      "description": "Добавляет новые возможности в меню предпросмотра премиум эмодзи.",
+      "author": "@swagnonher",
+      "version": "1.0",
+      "icon": "Swagapluginsicon/23",
+      "url": "https://gitverse.ru/api/repos/sterepando/MandreTweaks/raw/branch/master/Modules%2Fpremium_emoji_tweaks.dex"
+    },
+    {
+      "id": "ios_input_panel",
+      "name": "iOS панель ввода",
+      "description": "Переносит IOS панель ввода в родной exteraGram <3",
+      "author": "@swagnonher",
+      "version": "1.3",
+      "icon": "Swagapluginsicon/25",
+      "url": "https://gitverse.ru/api/repos/sterepando/MandreTweaks/raw/branch/master/Modules%2Fios_input_panel.dex"
+    },
+    {
+      "id": "outline_switches",
+      "name": "Outline switches",
+      "description": "OutlineMD3-переключатели во всём exteraGram.",
+      "author": "@swagnonher & @Axiomchicks",
+      "version": "1.4",
+      "icon": "Ogifir/2",
+      "url": "https://gitverse.ru/api/repos/sterepando/MandreTweaks/raw/branch/master/Modules%2Foutline_switches.dex"
+    },
+    {
+      "id": "local_user_arrow",
+      "name": "Корм для нищеебов (12.8.1+)",
+      "description": "Для нищеебов у которых нету денег на 3 сырка илье!",
+      "author": "@swagnonher",
+      "version": "1.0",
+      "icon": "Ogifir/2",
+      "url": "https://gitverse.ru/api/repos/sterepando/MandreTweaks/raw/branch/master/Modules%2Flocal_user_arrow.dex"
+    },
+    {
+      "id": "pair_mode",
+      "name": "семейный модуль InDev",
+      "description": "семейный модуль InDev",
+      "author": "@swagnonher",
+      "version": "0.1",
+      "icon": "Ogifir/2",
+      "url": "https://gitverse.ru/api/repos/sterepando/MandreTweaks/raw/branch/master/Modules%2Fpair_mode.dex"
+    }
+  ]
+}
